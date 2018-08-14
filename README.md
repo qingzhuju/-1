@@ -1,5 +1,4 @@
 # -1
-链实验代码1
 pragma solidity ^0.4.24;
 
 import "./ERC20.sol";
